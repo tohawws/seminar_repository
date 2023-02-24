@@ -23,3 +23,8 @@ git switch
 ```
 git status
 ```
+## Как записать commit в репозиторий
+Для того чтобы записать commit нужно ввести команду:
+```
+git commit -m "message"
+```
