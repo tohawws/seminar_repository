@@ -83,15 +83,15 @@ span>
 t">
       <a href="#" class="dropdown-toggle" data-toggl
 e="dropdown">
- <span class="dropdown-toggle-wrapper">
- <span>
- Войти
- </span>
- </span>
- <span class="caret"></span>
- </a>
- </li>
- </ul>
+        <span class="dropdown-toggle-wrapper">
+          <span>
+            Войти
+          </span>
+        </span>
+        <span class="caret"></span>
+      </a>
+    </li>
+  </ul>
 </nav>
 ```
 
